@@ -1,5 +1,6 @@
+| **No.** | **Topic** | **Description** | **Link** |
+|--------|-----------|----------------|----------|
 | **1** | K-Nearest Neighbors (KNN) | Implemented KNN algorithm for classification, including distance calculation and prediction logic. | <a href="https://colab.research.google.com/drive/1kNYQMVZorsMXGTe5tIkzFdGfgGoHhlh3?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a> |
 | **2** | Linear Regression with OLS | Built Linear Regression using Ordinary Least Squares method and understood coefficient estimation. | <a href="https://colab.research.google.com/drive/14dSleKvTXvI2_ta_igIoRTMhGit7xc0J?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a> |
 | **3** | Introduction to Gradient Descent | Learned the concept of Gradient Descent optimization and how it minimizes loss functions. | <a href="https://colab.research.google.com/drive/1szoria-KjKi9inGWbjGI2GaoRFEaNNLC?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a> |
 | **4** | Gradient Descent from Scratch | Implemented Gradient Descent from scratch to understand parameter updates and convergence. | <a href="https://colab.research.google.com/drive/1szoria-KjKi9inGWbjGI2GaoRFEaNNLC?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a> |
-
