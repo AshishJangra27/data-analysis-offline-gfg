@@ -4,3 +4,5 @@
 | **02** | Linear Regression with OLS | Built Linear Regression using Ordinary Least Squares method and understood coefficient estimation. | <a href="https://colab.research.google.com/drive/14dSleKvTXvI2_ta_igIoRTMhGit7xc0J?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a> |
 | **03** | Introduction to Gradient Descent | Learned the concept of Gradient Descent optimization and how it minimizes loss functions. | <a href="https://colab.research.google.com/drive/1szoria-KjKi9inGWbjGI2GaoRFEaNNLC?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a> |
 | **04** | Feature Engineering | Feature Engineering Mastercalss on titanic Dataset | <a href="https://colab.research.google.com/drive/1ouqXGX-40Ji4ZavnDpVVh7z3tSC9_yhO?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a> |
+| **05** | Titanic Survival Prediction | Titanic survival Prediction ith different ML Models | <a href="https://colab.research.google.com/drive/1I2WCo_YKCaHTICuw-az5WddK6N8kg0Mg?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a> |
+
