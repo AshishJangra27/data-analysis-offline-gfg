@@ -6,3 +6,6 @@
 | **04** | Feature Engineering | Feature Engineering Mastercalss on titanic Dataset | <a href="https://colab.research.google.com/drive/1ouqXGX-40Ji4ZavnDpVVh7z3tSC9_yhO?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a> |
 | **05** | Titanic Survival Prediction | Titanic survival Prediction ith different ML Models | <a href="https://colab.research.google.com/drive/1I2WCo_YKCaHTICuw-az5WddK6N8kg0Mg?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a> |
 
+
+
+https://colab.research.google.com/drive/1juVuCNDJLY_SBCsMyBs9iSfmFGpPWBnu?usp=sharing
