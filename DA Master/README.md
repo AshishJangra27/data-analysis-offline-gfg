@@ -16,3 +16,4 @@ https://colab.research.google.com/drive/1jFozVyHD1VxTL8az0pH3ud3VBLclXqXU?usp=sh
 
 NLP Intro
 https://colab.research.google.com/drive/1QF1ZpnFkNwfX8zW1EJgCewY9krmeyC9c?usp=sharing
+https://www.kaggle.com/datasets/krishbaisoya/tweets-sentiment-analysis?select=train_data.csv
