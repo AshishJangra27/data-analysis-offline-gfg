@@ -13,3 +13,6 @@ https://colab.research.google.com/drive/1juVuCNDJLY_SBCsMyBs9iSfmFGpPWBnu?usp=sh
 https://colab.research.google.com/drive/1vc2zJ3yOqYjFY3WaZb6n0hN6IgAM_jpq?usp=sharing
 
 https://colab.research.google.com/drive/1jFozVyHD1VxTL8az0pH3ud3VBLclXqXU?usp=sharing
+
+NLP Intro
+https://colab.research.google.com/drive/1QF1ZpnFkNwfX8zW1EJgCewY9krmeyC9c?usp=sharing
