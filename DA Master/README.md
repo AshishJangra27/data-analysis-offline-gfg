@@ -20,3 +20,6 @@ https://www.kaggle.com/datasets/krishbaisoya/tweets-sentiment-analysis?select=tr
 
 Stock Price Prediction
 https://colab.research.google.com/drive/1JdkHbm9-tvwSBWK0Pjp1c6nlCUqB2PBD?usp=sharing
+
+Stock Price Prediction with AI
+https://colab.research.google.com/drive/11naPtETuayaNHNKDVxKHo0SrwAz4N1IQ?usp=sharing
