@@ -23,3 +23,6 @@ https://colab.research.google.com/drive/1JdkHbm9-tvwSBWK0Pjp1c6nlCUqB2PBD?usp=sh
 
 Stock Price Prediction with AI
 https://colab.research.google.com/drive/11naPtETuayaNHNKDVxKHo0SrwAz4N1IQ?usp=sharing
+
+
+https://colab.research.google.com/drive/1-1Nsrf5IMa9lNlizRxBNgz6vatTCDxdX?usp=sharing
