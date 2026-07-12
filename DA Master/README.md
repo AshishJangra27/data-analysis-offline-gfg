@@ -26,3 +26,5 @@ https://colab.research.google.com/drive/11naPtETuayaNHNKDVxKHo0SrwAz4N1IQ?usp=sh
 
 
 https://colab.research.google.com/drive/1-1Nsrf5IMa9lNlizRxBNgz6vatTCDxdX?usp=sharing
+
+https://github.com/AshishJangra27/generative-ai-project
